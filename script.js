@@ -1,9 +1,7 @@
 // ==UserScript==
-// @id             www.imdb.com-5763720c-0524-4b86-af79-87e6136cb253@scriptish
-// @name           IMDb kat.ph and Torrentz Links and yts.re
-// @version        1.2
-// @namespace      
-// @author         xpdite
+// @name           subtitleLinks
+// @version        1.0
+// @namespace      akursat.com/script
 // @author         akursat
 // @description    
 // @require        http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
