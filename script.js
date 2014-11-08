@@ -24,7 +24,6 @@ $( document ).ready(function() {
      //Creating container.
    function createDiv(){
         $('#img_primary').append(
-            $('test')
             $('<div/>')
             .attr("id", "container")
             .addClass("container")
