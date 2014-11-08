@@ -21,4 +21,18 @@ $( document ).ready(function() {
        var title = $('h1.header').children('.itemprop').text();
        return title;
     }
+     //Creating container.
+   function createDiv(){
+        $('#img_primary').append(
+            $('test')
+            $('<div/>')
+            .attr("id", "container")
+            .addClass("container")
+            .css("border", "1px solid black")
+            .css("width","190px")
+            .css("height","100px")
+            .css("margin-left", "10px")
+          );
+    }
+    
 });
